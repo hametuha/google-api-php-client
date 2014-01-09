@@ -15,8 +15,6 @@
  * limitations under the License.
  */
 
-require_once 'Google/Auth/Exception.php';
-require_once 'Google/Signer/Abstract.php';
 
 /**
  * Signs data.

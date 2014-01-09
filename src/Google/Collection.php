@@ -1,6 +1,5 @@
 <?php
 
-require_once "Google/Model.php";
 
 /**
  * Extension to the regular Google_Model that automatically
